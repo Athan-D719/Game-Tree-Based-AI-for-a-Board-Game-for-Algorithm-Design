@@ -19,4 +19,4 @@ Optional: Implemented additional features (e.g., undo moves, animations, AI diff
 This project demonstrates the understanding of data structures, and algorithms, and the effective use of various data structures contributes to the overall efficiency and performance of static AIs.
 
 Project developed by:
-jdiaz-ospina-smodarres-sadeghi-jbuen
+jdiaz-ospina, smodarres-sadeghi, and jbuen
