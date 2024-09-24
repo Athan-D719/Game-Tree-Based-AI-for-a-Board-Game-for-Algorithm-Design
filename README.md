@@ -1,0 +1,2 @@
+# Game-Tree-Based-AI-for-a-Board-Game-for-Algorithm-Design
+This project uses a game tree and data structures (HashTable, Sorted DoublyLinkedList, Stack, Queue, Deque) to create a game-playing AI. The AI evaluates game states and makes strategic moves. Optional features include undo, animations, and difficulty settings. This project demonstrates strong understanding of data structures, algorithms, and AI.
